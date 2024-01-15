@@ -1,6 +1,11 @@
 **Role Playing Game - JavaScript Project:
 
 
+**Live Preview:** 
+
+https://brahimi73837.github.io/Role-Playing-Game-JS/
+
+
 This project is a role-playing game developed using JavaScript, completed as part of the FreeCodeCamp curriculum. It is designed to illustrate fundamental programming concepts and functionalities using arrays, strings, objects, functions, loops, if/else statements, and more in JavaScript.
 
 
